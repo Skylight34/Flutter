@@ -1,3 +1,4 @@
+//Checar dependencias a instalar en especial el simple barcode scanner de preferencia el 0.0.8
 import 'package:flutter/material.dart';
 import 'package:simple_barcode_scanner/simple_barcode_scanner.dart';
 
